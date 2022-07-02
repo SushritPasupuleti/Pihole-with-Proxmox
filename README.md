@@ -1,2 +1,15 @@
 # Pihole with Proxmox
- Setting up Pihole in LXC on Proxmox7
+
+Setting up Pihole on Proxmox/Debian Linux.
+
+## Install Docker
+
+Just refer to the Docker website.
+
+## Setup Pihole
+
+- Use the run script [docker-run.sh](docker-run.sh) to setup Pihole.
+
+- Replace ServerIP with your IP.
+
+- And run it.
