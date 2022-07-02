@@ -13,3 +13,7 @@ Just refer to the Docker website.
 - Replace ServerIP with your IP.
 
 - And run it.
+
+```bash
+sh docker-run.sh
+```
